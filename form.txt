@@ -7,14 +7,12 @@
 	
 	<body>
 		<form>
-
-			<label>Put your name:
-				<input type="text" name="name" placeholder="Name">
+			<label>Podaj swoje imię
+				<input type="text" name="name" placeholder="Imię">
 			</label>
 			<br>
-			<label>Put your surname:
-				<input type="text" name="surname" placeholder="Surmane">
-
+			<label>Podaj swoje nazwiswko
+				<input type="text" name="surname" placeholder="Nazwisko">
 			</label>
 
 		</form>
