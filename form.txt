@@ -1,7 +1,8 @@
 <!doctype>
 
 <html>
-	<head>
+	<head lang "pl=PL"> 
+		<meta charset="UTF-8">
 		<meta name="keywords" content="nauka GIT">
 		<title>form</title>
 	</head>
